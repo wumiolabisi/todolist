@@ -3,14 +3,12 @@ Créer une API pour gérer une liste de tâches. L'API permettra d'ajouter, de s
 
 # Fonctionnalités
 
-    GET /tasks : Récupère toutes les tâches.
-    POST /tasks : Ajoute une nouvelle tâche.
-    PUT /tasks/
-    : Modifie une tâche existante.
-    DELETE /tasks/
-    : Supprime une tâche.
-    PATCH /tasks/
-    /complete : Marque une tâche comme terminée.
+    * GET /tasks : Récupère toutes les tâches.
+    * POST /tasks : Ajoute une nouvelle tâche.
+    * PUT /tasks/ : Modifie une tâche existante.
+    * DELETE /tasks/ : Supprime une tâche.
+    * PATCH /tasks/
+    * /complete : Marque une tâche comme terminée.
 
 # Tests 
 
